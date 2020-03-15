@@ -1,10 +1,6 @@
+ #include <stdio.h>
+int main(){
 
-
-
-
-     sample file  1
-
-
-     second commit 
-
-     can you see???
+ printf("basic expression\n");
+   return 0;
+}
